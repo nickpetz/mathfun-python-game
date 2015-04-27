@@ -1,0 +1,1 @@
+Mental math game implemented in python. Keeps track of game statistics such as the number of questions answered correctly and incorrectly.
